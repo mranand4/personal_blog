@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mranand4.github.io/'
 languageCode = 'en-us'
 title = "Shivansh's Blog"
 theme = 'mainroad'
@@ -8,7 +8,7 @@ category = "categories"
 tag = "tags"
 
 [Params]
-  description = "Shivansh's personal space on net."
+  description = "Personal website of Shivansh Anand."
   copyright = "Shivansh Anand" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
@@ -28,7 +28,7 @@ tag = "tags"
 [Params.logo]
   image = false
   title = "Shivansh's blog"
-  subtitle = "Just another blog on the web"
+  subtitle = "My corner on web"
 
 [Params.style.vars]
   highlightColor = "#4CAF50"
@@ -50,3 +50,7 @@ tag = "tags"
   linkedin = "s6h"
   github = "mranand4"
   email = "saonnet@outlook.com"
+
+[Params.Author]
+    name = "Shivansh Anand"
+    bio = "I'm a software engineer based in Bengaluru, India. I like to make things -- especially things which people actually use."

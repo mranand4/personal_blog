@@ -1,17 +1,11 @@
 +++
-date = '2025-09-21T21:11:17+05:30'
-draft = true
-title = 'Hello World'
+date = '2025-12-09T22:40:51+05:30'
+draft = false
+title = "Finally it's here"
+tags = ["random musings"]
+authorbox = true
 +++
 
-## Hello, World !
+Long last I've returned to blogging again after a hiatus of ten odd years. I'll be mainly using this blog to share my opinions on technical things but I might digress from time to time.
 
-Very first post by yours truly!
-
-### So this is hugo
-
-- list item 1
-- list item 2
-
-1. Hello
-2. Hey
+Stay tuned for my first post.
