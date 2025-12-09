@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shivansh&#39;s Blog</title>
-    <link>https://mranand4.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Shivansh&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Dec 2025 22:40:51 +0530</lastBuildDate>
-    <atom:link href="https://mranand4.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Musings</title>
-      <link>https://mranand4.github.io/tags/random-musings/</link>
+      <link>http://localhost:1313/tags/random-musings/</link>
       <pubDate>Tue, 09 Dec 2025 22:40:51 +0530</pubDate>
-      <guid>https://mranand4.github.io/tags/random-musings/</guid>
+      <guid>http://localhost:1313/tags/random-musings/</guid>
       <description></description>
     </item>
   </channel>
